@@ -1,0 +1,10 @@
+Name: Soroush Bahrami                   Student No: 152499182                
+Student ID: sbahrami7@myseneca.ca             Section: NHH
+
+
+Workshop 2
+Reflection:         
+Doing this week’s “at home” workshop, I practiced declaration, using data types, simple arithmetic operations and other simple things which I first learned from the textbook and “in lab” workshop. 
+The new thing that I learned from this workshop was using modulus instead of division and subtraction. First, I did the workshop without using modulus, it worked, but it took me a long time. I realized that using modulus helps me save time and make my code clear and easy to read. Another interesting point about using modulus was the fact that it only works with integers and not with floats and doubles. At first, I thought it would be so difficult to change the floats to integers by multiplying them by 100 and to change them back again, but the last hint in workshop pdf helped me a lot. 
+One mistake that I made at first and fixed today, was using a new “amount owing” for each expression, so I had to declare about 7 different “amount owing” (amountowing1, amountowing2…).  Today I realized that I could only use one for all of them if I printed the output right after every expression instead of writing all of them at the end of my code.
+ Casting was another important lesson this week, which I didn’t have any difficulty using.
