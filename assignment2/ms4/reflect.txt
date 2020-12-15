@@ -1,0 +1,14 @@
+Name: Soroush Bahrami
+Seneca Number: 152499182
+ID: sbahrami7@mysenecacollege.ca
+Section: NHH
+Assignment 2 MS4
+Reflection:
+By doing these two milestones, once again I practiced using header files, writing function prototypes there, and writing function definition in c files. I learned many useful functions which I can use in different programs as well. Using functions such as getInt(), yes(), etc. make complex problems simple and short. I think one of the most important parts of these two milestones were string library functions such as strlen(), strcmp() and strcpy(). I used these for the first time. I also used one library function, isdigit(int) in my getTenDigitPhone() to get only the numerical digits. Apart from these, I practiced using all sort of logic which I learned. I think these milestones covered almost everything from the start of the course till now. 
+Questions:
+1. An explanation of how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability. 
+I think these two functions make our program very simple and yet accurate and strong. Phone number works like the ID. First of all, the user must enter a ten-digit number, and you can access and update all the information of the user by searching the contacts with that phone number.
+
+2. Would you have liked this assignment to include the functionality to load/save the contact information from/to a text data file? Explain your decision.
+Yes. That way it is much easier to store the information in the program or sending that information in the text form. If we could be able to have this functionality, our work would be very efficient. 
+
