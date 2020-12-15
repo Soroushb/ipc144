@@ -1,0 +1,9 @@
+Name: Soroush Bahrami                         student No: 152499182                id: sbahrami7@myseneca.ca
+Section: NHH                       Workshop 3 at home
+
+Reflection: 
+By doing this week’s workshop, I learned how to use iteration constructs such as if and while loops in my codes. I also learned the optional sequence which is a selection construct by doing “At home” workshop. I learned about “#define”, which is something almost like constant, but it defines the range. I had two challenges that I struggled with while doing the “at home” workshop. The first one was a very simple thing which I learned during the first classes. I forgot to do the “casting” for “lowtotal” and “hightotal” though I wanted the answer to be a float. The second difficulty was putting the statements in the right place. By that, I mean I wasn’t sure whether to put them inside for or while loops. 
+Answers for the questions: 
+1. I didn’t use pseudo-code at first, and I found it quite difficult to code. I didn’t know where to start, and what the next step was. I had to go back frequently to change and fix what I had written. Pseudo-code could have made everything so much simpler.
+2. As I mentioned, I used “For Loop” and “While Loop”. I used the first one for the days and the second one to spot wrong valuables and repeat the sequence. 
+3. I didn’t use any specific method. I’d build and run the solution and if I didn’t get the right answer, I’d look at my code to see what was wrong.
