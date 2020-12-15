@@ -1,0 +1,12 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+User:  sbahrami7
+Reflection
+
+This week I learned how to create an empty project in Visual Studio, save it where I wanted (USB drive)
+and make it use the C compiler instead of C++ by changing the extension of the file from .cpp to .c. 
+I also learned how to enter a basic source code properly, build a solution for it and start it without debugging.
+I realized how precise one must write the code to be able to get the result from the computer. 
+After the mentioned steps, I learned how to transfer the written code from my computer to a remote host with using WinSCP.
+And in the end I learned how to submit my work in matrix, using Putty. 
+
