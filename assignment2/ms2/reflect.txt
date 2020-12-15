@@ -1,0 +1,13 @@
+Name : Soroush Bahrami
+Student Number : 152499182
+sbahrami7@myseneca.ca
+Assignment 2 Milestone 2 
+
+Reflection: 
+By doing this week's milestone, First of all I practiced using header files again, this time with two separate headerfiles. The most important practice of this milestone was function. I 
+I learned how to use functions' return values in my code and I realized how much they make it simpler and shorter. I had some difficulty understanding functions like getInt, but I figured it out in the end. I also practiced basic things like using while loops and switch as well. This milestone has been the most difficult one, for me so far.
+Questions: 
+An explanation of the term “function” and briefly discuss the need for functions in any language. 
+Function is basically a self-contained component of a code, which should be independent from other functions. this function can be accessed multiple times from different locations in the program. The purpose of function, is to make our work simpler and shorter, because by using functions, we don't have to write the code that function contains every single place we need it. Instead, we call the function and that's it.
+An explanation why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module. 
+I think that helper files, contain the functions that we use in our main module. In other words, I think the helper functions are those which we can even use in different assignments. These are useful functions which we don't only use for this code.
