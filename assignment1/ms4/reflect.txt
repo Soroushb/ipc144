@@ -1,0 +1,11 @@
+Name: Soroush Bahrami
+Student Number: 152499182
+Id: sbahrami7@myseneca.ca
+Section: NHH
+
+By doing Milestone 3 and 4, I learned how to write both function prototypes and function definition. One of the most important things I learned was how to pass by address instead of making a copy when I want the original data to be changed.  The other important thing was declaring the struct to the safe state, by initializing the integers to 0, and characters to the “null byte” (‘\0’). I practiced using pointers and used arrow operation for the first time. In addition to these new things that I learned, I practiced while loops, printing character strings, and using clear function to clean the input buffer. I also practiced defining and allocating memory for structs and putting a struct type inside another struct.
+Questions: 
+1. An explanation of why you think this assignment has asked you to code a struct, Contact, that holds three other structs as data members.  
+I think this makes our code much simpler, shorter and more elegant. We can have different types in structures and the structure members can be structure themselves. For displaying the output, it was very interesting for me the way we can use this structure. For example, I didn’t know we can write the code this way: “contact.numbers.cell”. I thought it is much more complex than this. Practicing structures might also be another reason for this milestone. 
+2. An explanation why it would be poor design to pass a pointer to type Contact as an argument in the functions getName, getAddress, and getNumbers. 
+I think the reason is that when we can have direct access to Name, Address, Numbers, it’s poor design and pointless to access them by contact struct. If we ever remove contact struct, we have to change all the pointers again.
